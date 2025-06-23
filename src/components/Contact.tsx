@@ -57,19 +57,19 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'ankit.acharya@email.com',
+      value: 'ankitacharya848@gmail.com',
       link: 'mailto:ankit.acharya@email.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '9856029764',
+      link: '9745449341'
     },
     {
       icon: MapPin,
       title: 'Location',
-      value: 'New York, NY',
+      value: 'Pokhara, Kaski',
       link: '#'
     }
   ];
@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
     {
       icon: Github,
       name: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/ankit4189',
       color: 'hover:text-gray-300'
     },
     {
