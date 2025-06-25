@@ -22,9 +22,9 @@ const Experience: React.FC = () => {
   const experiences = [
     {
       type: 'education',
-      title: 'Bachelor in Computer Science',
+      title: 'Mastery in Computer Science',
       organization: 'University of Technology',
-      location: 'New York, NY',
+      location: 'Pokhara, Kaski',
       period: '2022 - Present',
       description: 'Pursuing a comprehensive computer science degree with focus on software engineering, algorithms, and web development. Maintaining a GPA of 3.8/4.0.',
       achievements: [
@@ -62,8 +62,8 @@ const Experience: React.FC = () => {
     {
       type: 'education',
       title: 'High School Diploma',
-      organization: 'Central High School',
-      location: 'New York, NY',
+      organization: 'S.S.C.S.S',
+      location: 'Pokhara, Kaski',
       period: '2018 - 2022',
       description: 'Graduated with honors, specializing in STEM subjects. Active member of the computer science club and robotics team.',
       achievements: [
